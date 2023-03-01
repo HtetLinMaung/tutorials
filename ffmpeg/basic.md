@@ -1,4 +1,4 @@
-# Basic
+# Basic Usages
 
 ## Converting a video format:
 
@@ -24,7 +24,7 @@ This command cuts a 30-second segment from the input video starting at the 1-min
 
 This command merges multiple video files into a single file. The concat filter is used to concatenate the input files, and the -c copy option tells FFmpeg to copy the video and audio codecs from the input files to the output file without re-encoding them.
 
-# Advance
+# Advance Usages
 
 ## Changing video resolution and aspect ratio:
 
